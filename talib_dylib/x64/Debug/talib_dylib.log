@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  talib_dylib.cpp
+  正在生成代码...
+    正在创建库 D:\project\wlh\talib_dylib\x64\Debug\TALIBDYLIB.lib 和对象 D:\project\wlh\talib_dylib\x64\Debug\TALIBDYLIB.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  talib_dylib.vcxproj -> D:\project\wlh\talib_dylib\x64\Debug\TALIBDYLIB.dll
